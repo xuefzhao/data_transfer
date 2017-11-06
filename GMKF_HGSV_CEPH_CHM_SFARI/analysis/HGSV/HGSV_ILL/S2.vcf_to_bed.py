@@ -1,0 +1,1 @@
+/data/talkowski/xuefang/data/GMKF_HGSV_CEPH_CHM_SFARI/analysis/src/S2.vcf_to_bed.py
